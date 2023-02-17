@@ -18,7 +18,7 @@ Here are some of the tools and technologies I'm comfortable with:
 
 🔄 Methodologies: Scrum
 
-🛠️ Tools: Visual Studio, Git
+🛠️ Tools: Visual Studio, Git, Sql Server, NetBeans, RadStudio etc
 
 🖥️ Hardware: Understanding of computer hardware and some experience with Arduino
 
